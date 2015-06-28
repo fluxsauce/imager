@@ -184,11 +184,13 @@ F#   G  F#   E D   E
 that no-one fills in
 F#   G  F#  E D   E
 ```
+`Am 3 beats, CM 3 beats, Bm 3 beats, Em 3 beats`
 
 ```
 that nothing fills
 F#   G  F#   E D
 ```
+`Am 3 beats, CM 3 beats, Bm 3 beats`
 
 ## Outro
 
