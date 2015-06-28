@@ -11,8 +11,11 @@
 
 * Stringy
     * Use mod wheel
+* 4/4 time
 
 `Am then hold during Rhodes intro`
+
+* Rhodes arpeggiated 1/8ths - `A3 D4 E4 G4 A4 G4 E4 D4`
 
 ## Intro
 
