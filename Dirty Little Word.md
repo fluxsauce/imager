@@ -14,21 +14,21 @@
 
 `4 x Am 10 beats Em6 8 beats`
 
-**Do you... know the sound that a soul can make? How
-could you? Deaf to all but your dinner plate? I'm
-hiding... below with your aberration sea... and I'm
-watching... you prepare the baited hook for me...**
+**Do you... know the sound that a soul can make? How  
+could you? Deaf to all but your dinner plate? I'm  
+hiding... below with your Apparitions' sea... and I'm  
+watching... you prepare the baited hook for me...**  
 
 ## Verse
 
 `4 x Am 10 beats Em6 8 beats`
 
-**Have you... ever taken a risk so dear... that
-log your casting... looks like a cheap souvenir...
-well I'm frozen, contemplate the single bite of
-hell.. and your
-fingers move so close with your hunger
-smell...**
+**Have you... ever taken a risk so dear... that  
+rod you're casting... looks like a cheap souvenir...  
+well I'm frozen, contemplate the single bite of  
+hell.. and your  
+fingers move so close with your hunger  
+smell...**  
 
 ## Chorus
 
@@ -36,44 +36,41 @@ smell...**
 
 *Double-time - 12/8 - sextuplets*
 
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`
+`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats Bm6 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats Em 3 beats`  
 
-`Am 3 beats CM 3 beats Bm 3 beats Bm6 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats Em 3 beats`
-
-**Don't you try to
-sling your little snow on me
-I slip past all of your
-un-cert-u-alities**
+**Don't you try to  
+sling your little self on me  
+I slip past all of your  
+absurd dualities**  
 
 Harmony:
 
 ```
-with... one... sweet... look
+with... one... sweet... hook
 E       E      F#       F#
 ```
 
 ```
-a  double mast on the head
-F# G      F#   E  D   E
+our  double mouths start eating
+F#   G      F#     E     D E
 ```
 
 ```
-these dirty little words these
+these dirty little words feed
 D     E D   E  D   E     D
 ```
 
 ```
-little dirty fools these
+dirty little fools en-
 E  D   E  D  E     D
 ```
 
 ```
-large and empty holes
-E     D   E  D  E
+larging empty holes
+E       D E   D  E
 ```
 
 ```
@@ -82,8 +79,6 @@ E    G  F#   E D   E
 ```
 
 `Am hold 12 beats`
-
-**nothing fills in**
 
 ## Solo
 
@@ -95,25 +90,22 @@ E    G  F#   E D   E
 
 *Double-time - 12/8 - sextuplets*
 
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats Bm6 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats Em 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats Bm6 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats Em 3 beats`
-
-`Am 12 beats`
+`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats Bm6 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats Em 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats Bm6 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats Em 3 beats`  
+`Am 12 beats`  
 
 ## Verse
+
+Pull me through the air from this sewer main  
+decayed breathe fill my lungs as the droplets drain  
+Spinning hangs the line linking me to you  
+and I’d remove it if I absolutely wanted to  
 
 ***Stringy***
 
@@ -121,29 +113,37 @@ E    G  F#   E D   E
 
 ## Intro variation
 
-Each time, get bigger...
+Now there’s no edge - smack your lips in a constant loop  
+There’s no edge just a piece for a favorite soup  
+I feel you cut my tail with your golden wheel  
+Oh I love you, dirty words that my soul reveals  
+
+_Each time, get bigger..._
 
 `4 x Am 10 beats Em6 8 beats`
 
 ## Chorus
 
+Don’t you try to sling your multitudes on me  
+I swim past all of your absurd dualities  
+With one sweet kiss our double mouths start eating  
+these dirty little words  
+feed dirty little fools  
+enlarging empty holes  
+that nothing fills in  
+that no one fills in  
+that nothing fills in  
+
 ***Mellotron Violins***
 
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats Bm6 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats Em 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats Bm6 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`
-
-`Am 3 beats CM 3 beats Bm 3 beats Em 3 beats`
+`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats Bm6 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats Em 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats Bm6 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
+`Am 3 beats CM 3 beats Bm 3 beats Em 3 beats`  
 
 ## Outro
 
