@@ -3,9 +3,9 @@
 125 bpm
 
 * Arturia - Analog Lab - Mini V - Strings - Stringy
-* Native Instruments - Kontakt 5 - Kontakt Factory Library - Vintage - Mellotron - Mellotron Violins
+* Native Instruments - Kontakt 5 - Kontakt Factory Library - Vintage - Mellotron - **Mellotron Violins**
     * Audio Effects - Reverb - Hall - Large Stage
-* Native Instruments - Massive - Massive Factory - Classic Mono Lead - Classic 3VCO Saw Kit
+* Native Instruments - Massive - Massive Factory - Classic Mono Lead - **Classic 3VCO Saw Kit**
 
 ## Fade in
 
