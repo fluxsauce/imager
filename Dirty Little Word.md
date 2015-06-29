@@ -9,9 +9,9 @@
 
 ## Fade in
 
-* Stringy
-    * Use mod wheel
 * 4/4 time
+* **Stringy**
+    * Use mod wheel
 
 `Am then hold during Rhodes intro`
 
@@ -20,34 +20,34 @@
 ## Intro
 
 Do you... know the sound that a soul can make?  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 How could you? Deaf to all but your dinner plate?  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 I'm hiding... below in your Apparitions' sea...  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 And I'm watching... you prepare the baited hook for me...  
-`Am 10 beats, Em6 8 beats`
+`Am 10 beats, EmI6 8 beats`
 
 ## Verse
 
 Have you... ever taken a risk so dear?  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 That rod your casting... looks like a cheap souvenir?  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 I'm frozen... contemplate a single bite of hell...  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 And your fingers... move so close with your hunger smell...  
-`Am 10 beats, Em6 8 beats`
+`Am 10 beats, EmI6 8 beats`
 
 ## Chorus
 
-* Mellotron Violins
+* **Mellotron Violins**
 * Double-time - 12/8 - sextuplets
 
 Don't you try to  
 `Am 3 beats, CM 3 beats, Bm 3 beats, GM 3 beats`  
 sling your little self on me  
-`Am 3 beats, CM 3 beats, Bm 3 beats, Bm6 3 beats`  
+`Am 3 beats, CM 3 beats, Bm 3 beats, BmI6 3 beats`  
 I slip past all of your  
 `Am 3 beats, CM 3 beats, Bm 3 beats, GM 3 beats`  
 absurd dualities  
@@ -89,60 +89,60 @@ E    G  F#   E D   E
 
 ## Solo
 
-* Classic 3VCO Saw Kit
+* **Classic 3VCO Saw Kit**
   * 1 - Vibrato Macros
   * 6 - OSC3 Amp
 
 *18/8 or 5/8 5/8 2/4 2/4*
 
-4 x `Am9 10 beats, Em6 8 beats`  
+4 x `Am9 10 beats, EmI6 8 beats`  
 
 *Double-time - 12/8 - sextuplets*
 
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
-`Am 3 beats CM 3 beats Bm 3 beats Bm6 3 beats`  
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
-`Am 3 beats CM 3 beats Bm 3 beats Em 3 beats`  
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
-`Am 3 beats CM 3 beats Bm 3 beats Bm6 3 beats`  
-`Am 3 beats CM 3 beats Bm 3 beats GM 3 beats`  
-`Am 3 beats CM 3 beats Bm 3 beats Em 3 beats`  
+`Am 3 beats, CM 3 beats, Bm 3 beats, GM 3 beats`  
+`Am 3 beats, CM 3 beats, Bm 3 beats, BmI6 3 beats`  
+`Am 3 beats, CM 3 beats, Bm 3 beats, GM 3 beats`  
+`Am 3 beats, CM 3 beats, Bm 3 beats, Em 3 beats`  
+`Am 3 beats, CM 3 beats, Bm 3 beats, GM 3 beats`  
+`Am 3 beats, CM 3 beats, Bm 3 beats, BmI6 3 beats`  
+`Am 3 beats, CM 3 beats, Bm 3 beats, GM 3 beats`  
+`Am 3 beats, CM 3 beats, Bm 3 beats, Em 3 beats`  
 `Am 12 beats`  
 
 ## Verse
 
-* Stringy
+* **Stringy**
 
 Pull me... through the air from this sewer main  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 Decayed breath... fill my lungs as the droplets drain  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 Spinning... hangs the line linking me to you  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 and I'd remove it... if I absolutely wanted to  
-`Am 10 beats, Em6 8 beats`
+`Am 10 beats, EmI6 8 beats`
 
 ## Intro variation
 
 * Each time, get bigger...
 
 Now there's no edge... smack your lips in a constant loop  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 There's no edge... just a pinch for a favorite soup  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 I feel you... cut my tail with your golden wheel  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 Oh I love you... dirty words that my soul reveals  
-`Am 10 beats, Em6 8 beats`  
+`Am 10 beats, EmI6 8 beats`  
 
 ## Chorus
 
-* Mellotron Violins
+* **Mellotron Violins**
 
 Don't you try to  
 `Am 3 beats, CM 3 beats, Bm 3 beats, GM 3 beats`  
 sling your multitudes on me  
-`Am 3 beats, CM 3 beats, Bm 3 beats, Bm6 3 beats`  
+`Am 3 beats, CM 3 beats, Bm 3 beats, BmI6 3 beats`  
 I swim past all of your  
 `Am 3 beats, CM 3 beats, Bm 3 beats, GM 3 beats`  
 absurd dualities  
