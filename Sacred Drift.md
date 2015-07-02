@@ -1,12 +1,20 @@
 # Sacred Drift
 
+Bladerunner strings
+
+3 x long hold and do not drop the levels
+
+(waaaaayyyyyyhhh breathy)
+
+A F D A
+
 You came from a long way  
 Across the sacred drift  
 Twisting this shape-shift world  
 Deep within the silhouette  
 My stillness reveals you  
 Painful fever starts  
-You came from a long way  a long way a long way
+You came from a long way a long way a long way
 
 You came from the dark star   
 and the unknown city  
@@ -31,3 +39,5 @@ I'm gonna see the skies
 Of real love  
 I’m gonna be your love  
 Melt with you
+
+BIG CHORD THEN PITCH BEND DOWN

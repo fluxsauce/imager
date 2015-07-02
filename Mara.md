@@ -17,9 +17,9 @@
 
 **Arnold Layne**
 
-`B4 3 beats, A4 F4`
-`E4 3 beats, F4 A4`
-`B4 2 beats, F4 A4 B4 F5
+`B4 3 beats, A4 F4`  
+`E4 3 beats, F4 A4`  
+`B4 2 beats, F4 A4 B4 F5`  
 `B5 3 beats, fall`
 
 ## Verse (0:16)

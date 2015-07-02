@@ -197,3 +197,4 @@ F#   G  F#   E D
 In...
 
 `Am hold until sample ends`
+ALTERNATE - Am 6 beats
