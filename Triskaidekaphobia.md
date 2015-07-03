@@ -2,6 +2,7 @@
 
 Betty
 Flute Mtron
+No harmony on verses
 
 Superstition  
 Death's intention  
@@ -34,6 +35,8 @@ Ah, ah, ah, ah, ah
 Ah, ah, ah, ah, ah ah v ah v ah ah (vx2)
 Ahh ahhhh Ahhh
 
+
+HARMONY
 Oh  
 
 It's so  
@@ -43,6 +46,7 @@ circular
 order  
 of  
 13
+(end harmoney)
 
 Fifth dimension  
 Termination  

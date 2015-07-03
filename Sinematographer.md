@@ -1,5 +1,7 @@
 # Sinematographer
 
+Emperor
+
 Starts with bass solo
 
 Jake brings in rhythm after 1x through riff

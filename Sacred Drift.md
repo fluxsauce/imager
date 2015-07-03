@@ -37,7 +37,7 @@ I want to be your light
 I want to be your love  
 I'm gonna see the skies  
 Of real love  
-I’m gonna be your love  
+I'm gonna be your love  
 Melt with you
 
 BIG CHORD THEN PITCH BEND DOWN

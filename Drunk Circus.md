@@ -5,6 +5,8 @@
 * Shift to E whole tone scale
 * Back to chromatic... slows down and fades (listen for bass)
 
+Drone after 16
+
 * Native Instruments - Absynth - Absynth 5 - Big Sweeps & Swells - Synthetic - **Scrapeswelldrone**
   * 1 - Scrape Density - 0
   * 5 - Scrapestring Pitchchaos - 0
