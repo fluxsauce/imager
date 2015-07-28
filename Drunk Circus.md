@@ -1,5 +1,7 @@
 # Drunk Circus
 
+NEEDS TEMPO
+
 * Starts with Jake count-in
 * Jam in chromatic rooted in E
 * Shift to E whole tone scale

@@ -2,7 +2,7 @@
 
 125 bpm
 
-* Arturia - Analog Lab - Mini V - Strings - Stringy
+* Blade Runner
 * Native Instruments - Kontakt 5 - Kontakt Factory Library - Vintage - Mellotron - **Mellotron Violins**
     * Audio Effects - Reverb - Hall - Large Stage
 * Native Instruments - Massive - Massive Factory - Classic Mono Lead - **Classic 3VCO Saw Kit**
@@ -71,7 +71,7 @@ D     E D   E  D   E     D
 ```
 
 ```
-dirty little fools
+little dirty fools
 E  D   E  D  E
 ```
 
@@ -166,8 +166,8 @@ D     E D   E D    E
 ```
 
 ```
-feed dirty little fools...
-D    E D   E D    E
+feed little dirty fools...
+D    E D    E D   E
 ```
 
 ```

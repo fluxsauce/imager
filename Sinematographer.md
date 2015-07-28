@@ -1,6 +1,8 @@
 # Sinematographer
 
-Emperor
+Make sure pedal sets up
+
+Betty + Dark Hall
 
 Starts with bass solo
 
@@ -18,4 +20,4 @@ Jon adds melodic solo (takes over from Alex)
 
 Recorded version ends abruptly... we won’t!
 
-Betty
+Betty - Reverb - Dark Hall

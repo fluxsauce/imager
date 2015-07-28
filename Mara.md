@@ -77,6 +77,8 @@ As I lead you down to the sea of... bloody misery
 
 `E minor solo, 16 bars, start on E5`
 
+Moog sweep during vocals
+
 I'm just a girl whistling in the dark  
 _I'm just a boy_  
 Ahead up the road your waving to stop  
@@ -91,6 +93,8 @@ Two magnets in the dark
 I corner too slow  
 The whip hits the mark  
 
+## Verse
+
 Bursting  
 Through the room their laughter rings  
 The Gods bet on the Mara queen  
@@ -100,6 +104,10 @@ Crushing
 She unmounts all her weight from me  
 Her stare her smell rise abruptly
 I lie below her demon gaze  
+
+## Outro
+
+Organ solo
 
 What are you  
 What are you  

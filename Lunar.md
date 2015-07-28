@@ -1,6 +1,6 @@
 # Lunar
 
-* 65 bpm
+* 130 3/4 bpm
 
 * Native Instruments - Massive - Massive Threat - Synth Pad - Deep Pad - Synthetic - **Bladerunner Strings**
 * Native Instruments - Kontakt 5 - Kontakt Factory Library - Vintage - Mellotron - **Mellotron Mixed Choir**
@@ -32,6 +32,8 @@ _(repeat bass line)_
 `BmI6 2 beats`
 
 ## Verse (0:43)
+
+***Get out of the way of the bass.***
 
 Time... falls silent  
 `CM7 4 beats, Em7 4 beats`  
@@ -70,3 +72,5 @@ _(repeat until done)_
 `CM7 4 beats, FM7 4 beats`  
 
 Are the only ones, only ones, holy ones, only ones  holy ones, holy ones, only ones, holy ones...
+
+Alex ends this song on a waterfall.

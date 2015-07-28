@@ -1,8 +1,17 @@
 # Triskaidekaphobia
 
+210 bpm?
+13/8
+
 Betty
 Flute Mtron
 No harmony on verses
+
+## Intro
+
+4 bars
+
+## Verse
 
 Superstition  
 Death's intention  
@@ -35,6 +44,7 @@ Ah, ah, ah, ah, ah
 Ah, ah, ah, ah, ah ah v ah v ah ah (vx2)
 Ahh ahhhh Ahhh
 
+Solo - come in at 6 bars and step in it
 
 HARMONY
 Oh  

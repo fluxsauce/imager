@@ -38,7 +38,7 @@ You bleed yourself away, away, away, away
 ## Solo (1:20)
 
 * Something guitar-like
-* `Dm 40 bars`
+* `D dorian 3 reps`
 
 ## Pre-verse (2:26)
 

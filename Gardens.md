@@ -13,10 +13,14 @@
 * 4/4 time
 * **Secret Drone**
 * `E3 drone 16 bars`
+  * E3 A3 B3 E4
+  * Arp 16th Up-and-Down
   * 1 - A1Cutoff Macros - 0
   * 2 - A1 X-Mod - 85
   * 3 - A1 Reso - 0
   * 6 - A1LFOAMT - 50
+  * 7 - A1 DELAY - 85
+  * 8 - A1 REVERB - 100
 * Drum, Bass & Rhodes - 16 bars
   * `Drone continues`
   * Rhodes - 2 bar pattern `E2 E3 D3 E3 F3 E3 F3 G3 F3 E3`
