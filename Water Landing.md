@@ -65,4 +65,7 @@ And the sea is coming
 
 ## Outro (2:50)
 
-* Jam on G
+* Jam on mixolydian (avoid F#)
+
+End - hold G
+pitch bend up into a, fade
