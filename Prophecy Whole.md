@@ -2,6 +2,7 @@
 
 ## Intro x 7|4 x 4
 
+```
 Stabilize - Virtue's price  
 My desire - Eros vice  
 Windowed walls - Shadow's fuel  
@@ -11,6 +12,7 @@ Humanize - Cultivate
 The lion's drive - I awake  
 Give me strength - Concentrate  
 patter - nize
+```
 
 ## A x 7|4 x 4
 
@@ -42,6 +44,7 @@ r r . In-the belly... OF THE BEAST...
 
 ## Outro x 4 7|4
 
+```
 Stabilize - Virtue's price  
 My desire - Eros vice  
 Windowed walls - Shadow's fuel  
@@ -51,3 +54,4 @@ Humanize - Cultivate
 The lion's drive - I awake  
 Give me strength - Concentrate  
 patter - nize
+```
