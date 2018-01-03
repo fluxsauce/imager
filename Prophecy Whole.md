@@ -28,11 +28,15 @@ C7 4 beats, Am 3 beats, Em 4 beats, D 3 beats
 
 Em7 4 beats, A 4 beats, Am 4 beats, Em7/Bm 4 beats
 
+r r . In-the belly... OF THE BEAST...
+
 ## C x 16 4|4
 
 ## A x 4 7|4
 
 ## B x 14 15|4
+
+... ON THIS BEASTLY CRAWL
 
 ## C x 16 4|4
 

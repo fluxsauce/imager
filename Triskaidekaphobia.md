@@ -44,7 +44,8 @@ Ah, ah, ah, ah, ah
 Ah, ah, ah, ah, ah ah v ah v ah ah (vx2)
 Ahh ahhhh Ahhh
 
-Solo - come in at 6 bars and step in it
+Solo - distorted rhodes for 6 bars, then
+Betty Solo - step in it
 
 HARMONY
 Oh  
